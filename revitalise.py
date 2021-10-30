@@ -27,4 +27,4 @@ NeWViG = VigTransferszn()
 #execute build_a_vig
 print("Hello World")
 NeWViG.build_a_vig()
-print("MWAHAHAHAHAH, BUZZ OFF CHICKENS")
+print("MWAHAHAHAHAH, BUZZ OFF C...")
